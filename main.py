@@ -1,5 +1,6 @@
 from random import randint
 from gameComponents import winLose,gameVars
+from PIL import Image
 
 choices = ["rabbit", "gun", "wall"]
 

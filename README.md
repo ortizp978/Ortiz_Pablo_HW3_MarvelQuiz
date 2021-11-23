@@ -1,6 +1,7 @@
-## Rabbit, Gun & Wall Game - Python text-based take on a classic!
+## Ortiz Pablo Home Work #3
+## MARVEL QUIZ!
 
-This is a new game based on Paper, Scissors and Rock learned at class.
+How much do you know about Marvel characters? ... you can always use google ... don't worry
 
 ### Prerequisites
 All you need is [Python 3](https://www.python.org/ "Python 3") to play.
@@ -9,22 +10,13 @@ All you need is [Python 3](https://www.python.org/ "Python 3") to play.
 Clone the project, <code>cd</code> to your directory/download, and run the game.py file in a Python 3 shell (Terminal on a mac / Linux, Windows command prompt).
 
 ### Rules
-Inspired by a similar game that my son currently plays with his friends where he basically uses the same mechanics but with different options or "weapons".
-
-In this new case Rock is replaced for Rabbit.
-Paper is replaced for Gun.
-Finally Scissors is replaced for Wall.
-
-So ... Rabbit is killed by a Gun, Gun is crushed by a Wall and Wall is jumped by a Rabbit.
+Let's play with some characters from the Marvel Universe.
+Choose in your mind ONE of the following 4 Marvel characters (don't tell anyone ssh) and answer some questions and the magic computer will tell you which character you had in mind, just answer Y(yes) or N(no).
 
 
 ### Built with [Python 3](https://www.python.org/doc/ "Python 3")
 
-Now we will try to make this game look better in the terminal window.
-
 ### License 
 MIT
-
-"Thanks to the professor Trevor for teaches this and my son to show me a new way to play this popular game."
 
 ### Autor: Pablo Ortiz.
