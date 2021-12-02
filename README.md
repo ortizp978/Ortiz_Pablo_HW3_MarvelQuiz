@@ -7,7 +7,7 @@ How much do you know about Marvel characters? ... you can always use google ... 
 All you need is [Python 3](https://www.python.org/ "Python 3") to play.
 
 ### Usage
-Clone the project, <code>cd</code> to your directory/download, and run the game.py file in a Python 3 shell (Terminal on a mac / Linux, Windows command prompt).
+Clone the project, <code>cd</code> to your directory/download, and run the quiz.py file in a Python 3 shell (Terminal on a mac / Linux, Windows command prompt).
 
 ### Rules
 Let's play with some characters from the Marvel Universe.
