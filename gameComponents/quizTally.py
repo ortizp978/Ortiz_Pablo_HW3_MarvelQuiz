@@ -1,5 +1,8 @@
 from gameComponents import vars
 from PIL import Image
+import colorama
+from colorama import Fore, Back, Style
+colorama.init(autoreset=True)
 
 
 def total(value):
@@ -8,7 +11,7 @@ def total(value):
     if value == 0:
         vars.character = vars.characters[0]
 
-        print(vars.character)
+        print(Back.RED + vars.character)
         print("")
         gamora = Image.open("gamora.jpg")
         gamora.show()
@@ -16,7 +19,7 @@ def total(value):
     if value == 10:
         vars.character = vars.characters[1]
 
-        print(vars.character)
+        print(Back.RED + vars.character)
         print("")
         captain = Image.open("captain_marvel.jpg")
         captain.show()
@@ -24,7 +27,7 @@ def total(value):
     if value == 20:
         vars.character = vars.characters[2]
 
-        print(vars.character)
+        print(Back.RED + vars.character)
         print("")
         vision = Image.open("vision.jpg")
         vision.show()
@@ -32,15 +35,15 @@ def total(value):
     if value == 30:
         vars.character = vars.characters[3]
 
-        print(vars.character)
+        print(Back.RED + vars.character)
         print("")
-        scarlet = Image.open("scarlet_wicht.jpg")
+        scarlet = Image.open("scarlet_witch.jpg")
         scarlet.show()
 
     if value == 40:
         vars.character = vars.characters[4]
 
-        print(vars.character)
+        print(Back.RED + vars.character)
         print("")
         iron = Image.open("iron_man.jpg")
         iron.show()
